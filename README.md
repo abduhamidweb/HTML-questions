@@ -41,7 +41,7 @@ Javob: Sahifa sarlavhasi (header) faqat bir bor bo'lishi kerak. Bunda faqat bir 
 ## HTML-da matnda ko'chirish uchun qanday teg ishlatiladi?
 Javob: Matnda ko'chirish uchun <a> tegi va href atributi ishlatiladi.
 
-## HTML-da kontentni qaysi taglar orqali guruhlashingiz mumkin?
+## HTML-da kontentni qaysi taglar orqali guruhlashingiz mumkin? 
 Javob: Kontentni guruhlashingiz uchun <div> va <span> teglari ishlatilishi mumkin.
 
 ## HTML-da formani qaysi teg yordamida yaratish mumkin?
