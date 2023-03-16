@@ -1,6 +1,6 @@
 # HTML-questions
 
-# section one
+# section one 
 
 ## HTML ni nima deb ataymiz va uning asosiy vazifalari nimalar?
 
